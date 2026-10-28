@@ -1,0 +1,12 @@
+{"id": "q01", "query": "how does retrieval reduce hallucination in generated answers", "relevant": ["d01", "d11"]}
+{"id": "q02", "query": "keyword scoring with term frequency and document length normalisation", "relevant": ["d02"]}
+{"id": "q03", "query": "finding paraphrases that use different words than the question", "relevant": ["d03"]}
+{"id": "q04", "query": "combine keyword and semantic results without calibrating scores", "relevant": ["d04"]}
+{"id": "q05", "query": "why overlapping passages help when splitting long documents", "relevant": ["d05"]}
+{"id": "q06", "query": "metric that discounts hits by their position in the ranking", "relevant": ["d06"]}
+{"id": "q07", "query": "metric for when the user needs only one good answer", "relevant": ["d07"]}
+{"id": "q08", "query": "why first stage recall matters before reranking", "relevant": ["d08", "d09"]}
+{"id": "q09", "query": "slow but accurate model that rescoring a short candidate list", "relevant": ["d09"]}
+{"id": "q10", "query": "malicious instructions hidden inside retrieved documents", "relevant": ["d10"]}
+{"id": "q11", "query": "checking that every claim is supported by context", "relevant": ["d11"]}
+{"id": "q12", "query": "speeding up vector search on millions of items", "relevant": ["d12", "d03"]}
